@@ -6,7 +6,7 @@ A ReactJS 18+ Fullscreen Mode Toggler component...
 
 ## Usage
 
-<code>
+```
   import FullscreenToggler from 'FullscreenToggler';
   
   const App = () => {
@@ -15,4 +15,4 @@ A ReactJS 18+ Fullscreen Mode Toggler component...
         <FullscreenToggler />
       </div>
   }
-</code>
+```

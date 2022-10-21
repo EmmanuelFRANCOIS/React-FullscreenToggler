@@ -1,4 +1,4 @@
-# React Fullscreen Toggler
+# REACT FULLSCREEN TOGGLER
 
 A ReactJS 18+ Fullscreen Mode Toggler component...
 
@@ -7,7 +7,7 @@ Choose the right version for your project...
 
 ---
 
-## Usage
+## USAGE
 
 ```
   import FullscreenToggler from 'FullscreenToggler';
